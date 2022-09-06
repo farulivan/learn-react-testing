@@ -1,3 +1,5 @@
+// in this course we try to use TDD (Test-driven dev), which we create the test first before development
+
 const Login = () => {
     return (
         <div className="container">
